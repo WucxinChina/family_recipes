@@ -2,6 +2,8 @@
 
 Set of recipes as given by my grandma.
 
-- pizas (TODO)
+- * pizzas(TODO)
++ * pizzas
++   - [base](.pisa.md)
 - sauses (TODO)
 - reads (TODO)
